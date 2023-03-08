@@ -1,0 +1,14 @@
+Couryard.mp4 filter=lfs diff=lfs merge=lfs -text
+DTU_114.mp4 filter=lfs diff=lfs merge=lfs -text
+DTU_65.mp4 filter=lfs diff=lfs merge=lfs -text
+sdf-tri_demo.mp4 filter=lfs diff=lfs merge=lfs -text
+Courtyard_com.mp4 filter=lfs diff=lfs merge=lfs -text
+Fountain.mp4 filter=lfs diff=lfs merge=lfs -text
+Horse.mp4 filter=lfs diff=lfs merge=lfs -text
+Fountain_com.mp4 filter=lfs diff=lfs merge=lfs -text
+Stone.mp4 filter=lfs diff=lfs merge=lfs -text
+nba_demo.mp4 filter=lfs diff=lfs merge=lfs -text
+sdf_tri_demo.mp4 filter=lfs diff=lfs merge=lfs -text
+Facade.mp4 filter=lfs diff=lfs merge=lfs -text
+couryard_comp.mp4 filter=lfs diff=lfs merge=lfs -text
+fac_comp.mp4 filter=lfs diff=lfs merge=lfs -text
